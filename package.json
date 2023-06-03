@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "hexlet lessons module 2-5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/repo.git"
+  },
+  "author": "konstantinmalygin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user/repo/issues"
+  },
+  "homepage": "https://github.com/user/repo#readme"
+}
